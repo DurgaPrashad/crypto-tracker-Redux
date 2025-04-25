@@ -59,6 +59,11 @@ https://drive.google.com/file/d/1HtuKuJfu0a5zA_AbGGIr_dtQbaRW3x5y/view?usp=drive
 - **🔠 TypeScript**: Typed superset of JavaScript for better tooling and code reliability  
 - **🔄 Redux Toolkit**: State management with simplified Redux setup  
 - **🎨 Tailwind CSS**: Utility-first CSS framework for styling
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/84192217-027f-4ab7-b54f-839d02414a24" alt="IMG_4149" width="200"/>
+  <img src="https://github.com/user-attachments/assets/dcb4e287-befa-4d2a-b5f0-8fb4f142aacc" alt="IMG_4151" width="200"/>
+  <img src="https://github.com/user-attachments/assets/3d0aed4f-e792-4846-b17e-5da5c2b2e8ee" alt="IMG_4150" width="200"/>
+</p>
 
 
 ### UI Components
