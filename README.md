@@ -52,6 +52,7 @@ A responsive React application that displays real-time cryptocurrency data with 
 - **⚛️ React**: UI library for building component-based interfaces
 - **▲ Next.js**: React framework for server-side rendering and routing
 - **📜 JavaScript (ES6+)**: Modern JavaScript syntax
+- **🔠 TypeScript: Typed superset of JavaScript for better tooling and code reliability
 - **🔄 Redux Toolkit**: State management with simplified Redux setup
 - **🎨 Tailwind CSS**: Utility-first CSS framework for styling
 
