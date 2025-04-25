@@ -1,4 +1,5 @@
-# 🚀 Real-Time Cryptocurrency Price Tracker : https://crypto-tracker-redux.vercel.app/
+# 🚀 Real-Time Cryptocurrency Price Tracker : 
+https://crypto-tracker-redux.vercel.app/
 
 A responsive React application that displays real-time cryptocurrency data with price updates, charts, and detailed information. This application simulates a professional cryptocurrency tracking platform like CoinMarketCap or CoinGecko.
 
